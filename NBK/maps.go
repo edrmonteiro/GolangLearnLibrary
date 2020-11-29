@@ -29,4 +29,11 @@ func main() {
 		fmt.Println(exists)
 	}
 
+	weights = map[string]int{
+		"Ane":   9,
+		"Maria": 10,
+	}
+
+	fmt.Println(weights)
+
 }
